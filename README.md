@@ -8,8 +8,7 @@
 <h2 align="center">Jean Lucas (Race Condition)</h2>
 
 <p align="center">
-  Computer science student building toward chip engineering. Hardware engineer at <strong>NETJAN</strong>,<br/>
-  studying RTL design, functional verification (UVM), and the calculus and semiconductor physics behind them from first principles.
+  Computer Science student and hardware engineer at <strong>NETJAN</strong>, focused on chip design and functional verification (UVM).
 </p>
 
 <p align="center">
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/Verilog-Learning-blue?style=flat-square" alt="Verilog"/>
   <img src="https://img.shields.io/badge/UVM-Verification%20Focus-blueviolet?style=flat-square" alt="UVM"/>
   <img src="https://img.shields.io/badge/PCB-Altium%20Designer-informational?style=flat-square" alt="Altium"/>
-  <img src="https://img.shields.io/badge/Self--Taught-No%20Engineering%20Degree-orange?style=flat-square" alt="Self-Taught"/>
 </p>
 
 ---
@@ -26,7 +24,7 @@
 
 Computer Science student, currently a hardware engineer at NETJAN — a Vietnam-based hardware startup with partnerships across Japan, China, and Southeast Asia.
 
-Focus: RTL design and functional verification (UVM). Independent study track, outside coursework: SystemVerilog, UVM, RISC-V processor design, and the calculus and semiconductor physics behind signal integrity, thermal dissipation, and timing. No formal engineering degree — this track is self-taught.
+Focus: RTL design and functional verification (UVM). Independent study track, outside coursework: SystemVerilog, UVM, RISC-V processor design, and the calculus and semiconductor physics behind signal integrity, thermal dissipation, and timing.
 
 📍 Full self-study roadmap — hardware/computer architecture and math/physics tracks: [`ROADMAP.md`](./ROADMAP.md).
 
@@ -36,6 +34,6 @@ Focus: RTL design and functional verification (UVM). Independent study track, ou
 
 Estudante de Ciência da Computação, atualmente engenheiro de hardware na NETJAN — startup de hardware baseada no Vietnã, com parcerias no Japão, China e Sudeste Asiático.
 
-Foco: RTL design e verificação funcional (UVM). Trilha de estudo independente, fora da grade: SystemVerilog, UVM, design de processador RISC-V, e o cálculo e física de semicondutores por trás de integridade de sinal, dissipação térmica e temporização. Sem formação em engenharia — essa trilha é autodidata.
+Foco: RTL design e verificação funcional (UVM). Trilha de estudo independente, fora da grade: SystemVerilog, UVM, design de processador RISC-V, e o cálculo e física de semicondutores por trás de integridade de sinal, dissipação térmica e temporização.
 
 </details>
