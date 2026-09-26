@@ -5,7 +5,7 @@
 <h1 align="center">0x48 0x65 0x6c 0x6c 0x6f 0x2c 0x20 0x57 0x6f 0x72 0x6c 0x64 0x21 0x0a</h1>
 <p align="center"><sub>Hello, World! — decoded, for anyone skimming this at 2am.</sub></p>
 
-<h2 align="center">Jean Lucas (Race Condition) 🦾⚡</h2>
+<h2 align="center">Jean Lucas (Race Condition)</h2>
 
 <p align="center">
   Computer science student building toward chip engineering. Hardware engineer at <strong>NETJAN</strong>,<br/>
